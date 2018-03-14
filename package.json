@@ -8,7 +8,6 @@
 	"keywords"        : ["creatures", "sfc", "caos", "norns", "norn", "ettin", "grendel", "shee", "albia"],
 	"contributors"    : [],
 	"main"            : "lib/init.js",
-	"bin"             : "bin/skeleton",
 	"dependencies"    : {
 		"protoblast"  : "~0.5.3",
 		"creatures"   : "~0.2.1",
