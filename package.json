@@ -2,7 +2,7 @@
 	"name"            : "albian-babel",
 	"description"     : "A serverless network for Creatures communication",
 	"author"          : "Jelle De Loecker <jelle@develry.be>",
-	"version"         : "0.1.1",
+	"version"         : "0.1.2",
 	"repository"      : "skerit/albian-babel",
 	"license"         : "MIT",
 	"keywords"        : ["creatures", "sfc", "caos", "norns", "norn", "ettin", "grendel", "shee", "albia"],
