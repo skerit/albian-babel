@@ -1,4 +1,4 @@
-## 0.1.1 (WIP)
+## 0.1.1 (2018-03-15)
 
 * Add more network properties
 * Allow connecting using a preferred port (though discovery-swarm does not like this)

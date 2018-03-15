@@ -9,8 +9,8 @@
 	"contributors"    : [],
 	"main"            : "lib/init.js",
 	"dependencies"    : {
-		"protoblast"  : "~0.5.3",
-		"creatures"   : "~0.2.1",
+		"protoblast"  : "~0.5.4",
+		"creatures"   : "~0.2.2",
 		"peerpin"     : "~0.1.0"
 	},
 	"devDependencies" : {
