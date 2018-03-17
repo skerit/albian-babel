@@ -1,3 +1,7 @@
+## 0.1.3 (WIP)
+
+* Add request forwarding support
+
 ## 0.1.2 (2018-03-15)
 
 * Add more network properties
