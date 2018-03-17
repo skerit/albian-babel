@@ -1,4 +1,4 @@
-## 0.1.3 (WIP)
+## 0.1.3 (2018-03-17)
 
 * Add request forwarding support
 
