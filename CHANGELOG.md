@@ -1,4 +1,4 @@
-## 0.1.4 (WIP)
+## 0.1.4 (2018-04-22)
 
 * Bump `peerpin` to v0.1.4 for lots of important dependency fixes
 * Store forwards on disk

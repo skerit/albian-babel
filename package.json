@@ -2,7 +2,7 @@
 	"name"            : "albian-babel",
 	"description"     : "A serverless network for Creatures communication",
 	"author"          : "Jelle De Loecker <jelle@develry.be>",
-	"version"         : "0.1.4-alpha",
+	"version"         : "0.1.4",
 	"repository"      : "skerit/albian-babel",
 	"license"         : "MIT",
 	"keywords"        : ["creatures", "sfc", "caos", "norns", "norn", "ettin", "grendel", "shee", "albia"],
@@ -10,7 +10,7 @@
 	"main"            : "lib/init.js",
 	"dependencies"    : {
 		"protoblast"  : "~0.5.4",
-		"creatures"   : "~0.2.3",
+		"creatures"   : "~0.2.6",
 		"peerpin"     : "~0.1.4"
 	},
 	"devDependencies" : {
