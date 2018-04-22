@@ -1,3 +1,7 @@
+## 0.1.4 (WIP)
+
+* Bump `peerpin` to v0.1.4 for lots of important dependency fixes
+
 ## 0.1.3 (2018-03-17)
 
 * Add request forwarding support
